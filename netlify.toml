@@ -2,4 +2,4 @@
 schedule = "@daily"
 
 [functions.rebuild]
-schedule = "0 12 * * *"
+schedule = "* * * * *"
